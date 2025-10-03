@@ -25,8 +25,11 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Tipo de usuarios y perfiles con roles***
 
-- Administrador (Puede realizar cambios internos)
-- Estudiante (Solamente puede leer página y realizar acciones básicas)
+-Administrador (Directiva del Centro)
+- Miembros directivos del centro de estudiantes
+- Permisos: Gestión completa del sistema, moderación de contenido, asignación de roles
+  
+-Estudiante (Solamente puede leer página y realizar acciones básicas)
 - Profesor (Poder dejar algun comentario como un profesor)
 
 ***Datos básicos a almacenar***
