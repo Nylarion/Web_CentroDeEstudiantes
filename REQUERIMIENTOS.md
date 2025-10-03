@@ -47,6 +47,14 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Funciones indispensables por Perfil***
 
+-Administrador
+- Gestionar usuarios y permisoso
+- Crear y moderar propuestas/ideas
+- Publicar información oficial
+- Crear y cerrar encuestas
+- Asignar responsables de proyectos
+- Actualizar contenido estático (quiénes somos, contactos)
+
 
 
 
