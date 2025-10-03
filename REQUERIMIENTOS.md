@@ -16,8 +16,12 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Problema principal***
 
-- Falta de organización y centralización de la comunicación y gestión de ideas dentro del centro de estudiantes de Derecho, lo que genera:
-- 
+-Falta de organización y centralización de la comunicación y gestión de ideas dentro del centro de estudiantes de Derecho, lo que genera:
+- Pérdida de información vailosa entre múltiples canales
+- Falta de seguimiento de propuestas e ideas
+- Desconocimiento sobre responsables de proyectos
+- Dificultad para participar de nuevos estudiantes
+- Falta de transparencia en las actividades del centro
 
 ***Tipo de usuarios y perfiles con roles***
 
