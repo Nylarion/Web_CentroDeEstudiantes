@@ -21,10 +21,10 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 - Administrador (Puede realizar cambios internos)
 - Estudiante (Solamente puede leer página y realizar acciones básicas)
+- Profesor (Poder dejar algun comentario como un profesor)
 
----
-Nombre de los participantes del proyecto:
-- Cristobal Cisterna
-- Luis Cerda
-- Sebastián Olguin
-- Braulio Palma
+***Datos básicos a almacenar***
+
+- Encuestas
+- Ideas de alumnos para toma de decisiones
+- Información para el fácil acceso de los estudiantes a ella 
