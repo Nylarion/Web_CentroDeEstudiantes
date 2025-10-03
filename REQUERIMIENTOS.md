@@ -17,7 +17,7 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 - Falta de organización y centralización de la comunicación y gestión de ideas dentro del centro de estudiantes de Derecho. Esto provoca que la información se pierda, no haya claridad sobre qué propuestas están en marcha ni quiénes están a cargo, y dificulta la participación y el seguimiento de los proyectos. Además, necesitan una solución fácil de manejar sin conocimientos técnicos para mantener todo actualizado y accesible.
 
-***Lista de usuarios del sistema***
+***Tipo de usuarios y perfiles con roles***
 
 - Administrador (Puede realizar cambios internos)
 - Estudiante (Solamente puede leer página y realizar acciones básicas)
