@@ -94,5 +94,16 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 
 ***Requisitos no Funcionales***
+
 -RNF01
-- 
+- Interfaz intuitiva para usuarios no tècnicos
+- Diseño responsive para desktop
+- Navegacion simple y clara
+
+-RNF02
+- Panel administrativo fàcil de usar sin conocimientos tècnicos
+- Actualizacion de contenido sin necesidad de programacion
+
+-RNF03
+- Tiempo de respuesta rapido incluso con multiples usuarios
+- Cache para contenido frecuentemente accedido
