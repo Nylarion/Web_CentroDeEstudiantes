@@ -90,3 +90,9 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - El sistema debe permitir votar ideas (positivo/negativo)
 - El sistema debe permitir comentar ideas
 - El sistema debe mostar estados de las ideas (pendiente/aprobada/desaprobada)
+
+
+
+***Requisitos no Funcionales***
+-RNF01
+- 
