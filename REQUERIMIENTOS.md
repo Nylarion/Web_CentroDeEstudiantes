@@ -6,6 +6,8 @@
 
 - Nombre del cliente: Carlos Sepulveda, Centro de Estudiantes de Derecho
 
+
+
 ***Contexto***
 - Yo estoy en el centro de estudiantes de Derecho, y uno de los temas que más nos cuesta es organizarnos bien con los estudiantes y también con las ideas o propuestas que van surgiendo.
 Lo que pasa es que hoy por hoy todo lo hacemos por WhatsApp, mails, o formularios sueltos de Google. Entonces la info se pierde, nadie sabe bien qué cosas ya se propusieron, qué se está trabajando, o quién está a cargo de qué. Por ejemplo, a veces alguien propone algo en una reunión o en el grupo, y después no se sigue porque se pierde entre tantos mensajes. También hay estudiantes que quieren participar o ayudar, pero no saben cómo o a quién acercarse.
@@ -29,8 +31,26 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Miembros directivos del centro de estudiantes
 - Permisos: Gestión completa del sistema, moderación de contenido, asignación de roles
   
--Estudiante (Solamente puede leer página y realizar acciones básicas)
-- Profesor (Poder dejar algun comentario como un profesor)
+-Estudiante (Registrado)
+- Estudiantes de la facultad registrados
+- Permisos: Ver información, proponer ideas, participar en encuestas, comentar propuestas
+  
+-Profesor
+- Docentes de la facultad
+- Permisos: Ver información, comentar en propuestas, dar feedback académico
+
+-Invitado
+- Cualquier persona que visite el sitio
+- Permisos: Solo lectura de información pública
+
+  
+
+***Funciones indispensables por Perfil***
+
+
+
+
+
 
 ***Datos básicos a almacenar***
 
