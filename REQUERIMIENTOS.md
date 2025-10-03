@@ -74,4 +74,13 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 - Encuestas
 - Ideas de alumnos para toma de decisiones
-- Información para el fácil acceso de los estudiantes a ella 
+- Información para el fácil acceso de los estudiantes a ella
+
+
+
+***Requisitos Funcionales***
+
+  -RF01
+  - El sistema debe permitir registro con validación de email institucional
+  - El sistema debe implementar login/logout seguro
+  - El sistema debe asignar y verificar roles de usuario
