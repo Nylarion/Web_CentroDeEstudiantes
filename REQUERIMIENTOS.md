@@ -55,8 +55,18 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Asignar responsables de proyectos
 - Actualizar contenido estático (quiénes somos, contactos)
 
+-Estudiante
+- Registrarse en el sistema
+- Proponer nuevas ideas
+- Participar en encuestas
+- Ofrecerse como voluntario en proyectos
+- Ver estado de las propuestas
+- Comentar ideas existentes
 
-
+-Profesor
+- Ver información pública
+- Comentar en propuestas estudiantiles
+- Recibir notificaciones de actividades relevantes
 
 
 
