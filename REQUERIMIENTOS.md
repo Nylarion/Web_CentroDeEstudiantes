@@ -80,7 +80,13 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Requisitos Funcionales***
 
-  -RF01
-  - El sistema debe permitir registro con validación de email institucional
-  - El sistema debe implementar login/logout seguro
-  - El sistema debe asignar y verificar roles de usuario
+-RF01 - Autenticación y Autorización
+- El sistema debe permitir registro con validación de email institucional
+- El sistema debe implementar login/logout seguro
+- El sistema debe asignar y verificar roles de usuario
+
+-RF02 - Gestión de ideas
+- El sistema debe permitir crear nuevas ideas/propuestas
+- El sistema debe permitir votar ideas (positivo/negativo)
+- El sistema debe permitir comentar ideas
+- El sistema debe mostar estados de las ideas (pendiente/aprobada/desaprobada)
