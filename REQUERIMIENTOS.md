@@ -17,16 +17,16 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 
 ***Problema principal***
+-Falta de organización y centralización de la comunicación y gestión de ideas dentro del centro de estudiantes de las facultades de la universidad, lo que genera:
+- Pérdida de información vailosa entre múltiples canales.
+- Falta de seguimiento de propuestas e ideas.
+- Desconocimiento sobre responsables de proyectos.
+- Dificultad para participar de nuevos estudiantes.
+- Falta de transparencia en las actividades del centro.
 
--Falta de organización y centralización de la comunicación y gestión de ideas dentro del centro de estudiantes de Derecho, lo que genera:
-- Pérdida de información vailosa entre múltiples canales
-- Falta de seguimiento de propuestas e ideas
-- Desconocimiento sobre responsables de proyectos
-- Dificultad para participar de nuevos estudiantes
-- Falta de transparencia en las actividades del centro
+
 
 ***Tipo de usuarios y perfiles con roles***
-
 -Administrador (Directiva del Centro)
 - Miembros directivos del centro de estudiantes
 - Permisos: Gestión completa del sistema, moderación de contenido, asignación de roles
@@ -46,7 +46,6 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
   
 
 ***Funciones indispensables por Perfil***
-
 -Administrador
 - Gestionar usuarios y permisoso
 - Crear y moderar propuestas/ideas
@@ -71,7 +70,6 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 
 ***Datos básicos a almacenar***
-
 - Encuestas
 - Ideas de alumnos para toma de decisiones
 - Información para el fácil acceso de los estudiantes a ella
@@ -79,7 +77,6 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 
 ***Requisitos Funcionales***
-
 -RF01 - Autenticación y Autorización
 - El sistema debe permitir registro con validación de email institucional
 - El sistema debe implementar login/logout seguro
@@ -94,7 +91,6 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 
 ***Requisitos no Funcionales***
-
 -RNF01
 - Interfaz intuitiva para usuarios no tècnicos
 - Diseño responsive para desktop
