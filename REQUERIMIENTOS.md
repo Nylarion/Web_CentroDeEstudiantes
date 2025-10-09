@@ -102,7 +102,7 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Navegacion simple y clara
 
 -RNF02
-- Panel administrativo fàcil de usar sin conocimientos tècnicos
+- Panel administrativo fácil de usar sin conocimientos tècnicos
 - Actualizacion de contenido sin necesidad de programacion
 
 -RNF03
