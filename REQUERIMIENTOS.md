@@ -36,7 +36,7 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
   
 -Estudiante (Registrado)
 - Estudiantes de la facultad registrados
-- Permisos: Ver información, proponer ideas, participar en encuestas, comentar propuestas
+- Permisos: Ver información, proponer ideas, comentar propuestas
   
 -Profesor
 - Docentes de la facultad
@@ -61,7 +61,6 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 -Estudiante
 - Registrarse en el sistema
 - Proponer nuevas ideas
-- Participar en encuestas
 - Ofrecerse como voluntario en proyectos
 - Ver estado de las propuestas
 - Comentar ideas existentes
@@ -90,7 +89,6 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 -RF02 - Gestión de ideas
 - El sistema debe permitir crear nuevas ideas/propuestas
-- El sistema debe permitir votar ideas (positivo/negativo)
 - El sistema debe permitir comentar ideas
 - El sistema debe mostar estados de las ideas (pendiente/aprobada/desaprobada)
 
