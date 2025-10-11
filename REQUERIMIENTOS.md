@@ -22,8 +22,8 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 -Falta de organización y centralización de la comunicación y gestión de ideas dentro del centro de estudiantes de las facultades de la universidad, lo que genera:
 - Pérdida de información vailosa entre múltiples canales.
 - Falta de seguimiento de propuestas e ideas.
-- Desconocimiento sobre responsables de proyectos.
-- Dificultad para participar de nuevos estudiantes.
+- Desconocimiento sobre personas responsables en proyectos.
+- Dificultad de nuevos estudiantes para participar.
 - Falta de transparencia en las actividades del centro.
 
 ---
