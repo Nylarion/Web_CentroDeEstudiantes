@@ -86,6 +86,13 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Correo electronico instuticional
 - Ramo dictado
 
+-Publicaciones
+- ID
+- Asunto
+- Informacion otorgada
+- Fecha creacion
+- Comentarios
+
 ---
 
 ***Requisitos Funcionales***
