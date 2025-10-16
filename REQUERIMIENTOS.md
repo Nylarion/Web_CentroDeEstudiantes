@@ -31,19 +31,23 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Tipo de usuarios y perfiles con roles***
 
--Administrador (Directiva del Centro)
+-Administrador (Personas Capacitadas):
 - Miembros directivos del centro de estudiantes
 - Permisos: Gestión completa del sistema, moderación de contenido, asignación de roles
+
+-Super Usuario (Directiva de centro):
+- Miembros directivos del centro de estudiantes
+- Permisos: Gestión y moderación de contenido.
   
--Estudiante (Registrado)
+-Estudiante (Registrado):
 - Estudiantes de la facultad registrados
 - Permisos: Ver información, proponer ideas, comentar propuestas
   
--Profesor
+-Profesor (Docentes):
 - Docentes de la facultad
 - Permisos: Ver información, comentar en propuestas, dar feedback académico
 
--Invitado
+-Invitado (Personas fuera de la Universidad):
 - Cualquier persona que visite el sitio
 - Permisos: Solo lectura de información pública
 
@@ -51,22 +55,27 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Funciones indispensables por Perfil***
 
--Administrador
-- Gestionar usuarios y permisoso
+-Administrador:
+- Gestionar usuarios y permisos
 - Crear y moderar propuestas/ideas
-- Publicar información oficial
-- Crear y cerrar encuestas
 - Asignar responsables de proyectos
 - Actualizar contenido estático (quiénes somos, contactos)
+- Editar visibilidad de la pagina
 
--Estudiante
+-Super Usuario:
+- Gestiona publicaciones
+- Publicar información oficial
+- Crear y cerrar encuestas
+- Crear y moderar propuestas/ideas
+
+-Estudiante:
 - Registrarse en el sistema
 - Proponer nuevas ideas
 - Ofrecerse como voluntario en proyectos
 - Ver estado de las propuestas
 - Comentar ideas existentes
 
--Profesor
+-Profesor:
 - Ver información pública
 - Comentar en propuestas estudiantiles
 - Recibir notificaciones de actividades relevantes
