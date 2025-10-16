@@ -55,25 +55,27 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Funciones indispensables por Perfil***
 
--Administrador
-- Gestionar usuarios y permisoso
+-Administrador:
+- Gestionar usuarios y permisos
 - Crear y moderar propuestas/ideas
-- Publicar información oficial
-- Crear y cerrar encuestas
 - Asignar responsables de proyectos
 - Actualizar contenido estático (quiénes somos, contactos)
 - Editar visibilidad de la pagina
 
--Super Usuario
+-Super Usuario:
+- Gestiona publicaciones
+- Publicar información oficial
+- Crear y cerrar encuestas
+- Crear y moderar propuestas/ideas
 
--Estudiante
+-Estudiante:
 - Registrarse en el sistema
 - Proponer nuevas ideas
 - Ofrecerse como voluntario en proyectos
 - Ver estado de las propuestas
 - Comentar ideas existentes
 
--Profesor
+-Profesor:
 - Ver información pública
 - Comentar en propuestas estudiantiles
 - Recibir notificaciones de actividades relevantes
