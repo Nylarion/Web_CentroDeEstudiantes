@@ -93,6 +93,10 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Fecha creacion
 - Comentarios
 
+-Encuesta Google Forms
+-URL
+-Fecha de subida
+
 ---
 
 ***Requisitos Funcionales***
