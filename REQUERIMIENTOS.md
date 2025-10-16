@@ -84,6 +84,7 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - ID
 - Nombre completo
 - Correo electronico instuticional
+- Ramo dictado
 
 ---
 
