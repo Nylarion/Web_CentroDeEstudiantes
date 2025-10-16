@@ -119,9 +119,9 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 -RNF01
 - Interfaz intuitiva para usuarios no tècnicos
-- Diseño responsive para desktop
+- Diseño flexible para distintas resoluciones
 - Navegacion simple y clara
-
+  
 -RNF02
 - Panel administrativo fácil de usar sin conocimientos tècnicos
 - Actualizacion de contenido sin necesidad de programacion
