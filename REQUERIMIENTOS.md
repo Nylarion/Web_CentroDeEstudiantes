@@ -58,6 +58,7 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Crear y cerrar encuestas
 - Asignar responsables de proyectos
 - Actualizar contenido estático (quiénes somos, contactos)
+- Editar visibilidad de la pagina 
 
 -Estudiante
 - Registrarse en el sistema
