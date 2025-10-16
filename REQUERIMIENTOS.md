@@ -20,9 +20,9 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 ***Problema principal***
 
 -Falta de organización y centralización de la información, comunicación y gestión de ideas dentro del centro de estudiantes de las facultades de la universidad, lo que genera:
-- Pérdida de información vailosa entre los múltiples canales (WhatsApp, E-mail o Formularios).
+- Pérdida de información valiosa entre los múltiples canales (WhatsApp, E-mail o Formularios).
 - Falta de seguimiento de propuestas e ideas.
-- Desconocimiento sobre personas que estan a cargo de los proyectos.
+- Desconocimiento sobre las personas que estan a cargo de los proyectos.
 - Dificultad de nuevos estudiantes para participar.
 - Falta de transparencia en las actividades del centro.
 - Desconocimiento de los cargos que tienen los participantes del centro de estudiantes.
