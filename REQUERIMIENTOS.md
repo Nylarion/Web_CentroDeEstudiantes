@@ -31,9 +31,13 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Tipo de usuarios y perfiles con roles***
 
--Administrador (Directiva del Centro)
+-Administrador (Personas Capacitadas)
 - Miembros directivos del centro de estudiantes
 - Permisos: Gestión completa del sistema, moderación de contenido, asignación de roles
+
+-Super Usuario (Directiva de centro):
+- Miembros directivos del centro de estudiantes
+- Permisos: Gestión y moderación de contenido.
   
 -Estudiante (Registrado)
 - Estudiantes de la facultad registrados
