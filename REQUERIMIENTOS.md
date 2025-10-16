@@ -75,9 +75,27 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Datos básicos a almacenar***
 
-- Encuestas
-- Ideas de alumnos para toma de decisiones
-- Información para el fácil acceso de los estudiantes a ella
+-Estudiante
+- ID
+- Nombre completo
+- Correo electronico instuticional
+
+-Profesor
+- ID
+- Nombre completo
+- Correo electronico instuticional
+- Ramo dictado
+
+-Publicaciones
+- ID
+- Asunto
+- Informacion otorgada
+- Fecha creacion
+- Comentarios
+
+-Encuesta Google Forms
+-URL
+-Fecha de subida
 
 ---
 
