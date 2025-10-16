@@ -31,7 +31,7 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 ***Tipo de usuarios y perfiles con roles***
 
--Administrador (Personas Capacitadas)
+-Administrador (Personas Capacitadas):
 - Miembros directivos del centro de estudiantes
 - Permisos: Gestión completa del sistema, moderación de contenido, asignación de roles
 
@@ -39,15 +39,15 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Miembros directivos del centro de estudiantes
 - Permisos: Gestión y moderación de contenido.
   
--Estudiante (Registrado)
+-Estudiante (Registrado):
 - Estudiantes de la facultad registrados
 - Permisos: Ver información, proponer ideas, comentar propuestas
   
--Profesor
+-Profesor (Docentes):
 - Docentes de la facultad
 - Permisos: Ver información, comentar en propuestas, dar feedback académico
 
--Invitado
+-Invitado (Personas fuera de la Universidad):
 - Cualquier persona que visite el sitio
 - Permisos: Solo lectura de información pública
 
@@ -62,7 +62,9 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Crear y cerrar encuestas
 - Asignar responsables de proyectos
 - Actualizar contenido estático (quiénes somos, contactos)
-- Editar visibilidad de la pagina 
+- Editar visibilidad de la pagina
+
+-Super Usuario
 
 -Estudiante
 - Registrarse en el sistema
