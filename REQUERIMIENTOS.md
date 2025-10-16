@@ -110,7 +110,8 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 -RF02 - Gestión de ideas
 - El sistema debe permitir crear nuevas ideas/propuestas
 - El sistema debe permitir comentar ideas
-- El sistema debe mostar estados de las ideas (pendiente/aprobada/desaprobada)
+- El sistema debe mostrar estados de las ideas (pendiente/aprobada/desaprobada)
+- El sistema debe mostrar sugerencias de ideas para publicaciones
 
 ---
 
