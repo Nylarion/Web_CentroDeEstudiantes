@@ -80,6 +80,11 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Nombre completo
 - Correo electronico instuticional
 
+-Profesor
+- ID
+- Nombre completo
+- Correo electronico instuticional
+
 ---
 
 ***Requisitos Funcionales***
