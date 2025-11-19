@@ -122,11 +122,11 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 El MVP de la página web que el cliente solicito tendra:
 
-- La página sera un "blog" en donde los estudiantes y profesores podrán ponder sus ideas.
+- La página sera un "blog" en donde los estudiantes podrán ponder sus ideas.
 - La estetica de la página sera muy parecida a como es la página oficial de la Universidad.
 - Tendra un apartado o pestaña en donde se podra ver la información reciente que se publico.
 - Trendra un apartado o pestaña en donde se podrán ver los participantes del centro de estudiantes.
-- Como ya se mencionó, tendrá un aparado o pestaña en donde los Estudiantes o Profesores podrán poner sus ideas al estilo de los "blogs".
+- Como ya se mencionó, tendrá un aparado o pestaña en donde los Estudiantes podrán poner sus ideas al estilo de los "blogs".
 - Pestaña con encuestas para que los estudiantes puedan tomar decisiones.
 
 Las ideas que se podrían implementar a futuro son:
