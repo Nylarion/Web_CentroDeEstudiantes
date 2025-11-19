@@ -123,12 +123,12 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 
 -RNF01
 - Interfaz intuitiva para usuarios no tècnicos
-- Diseño flexible para distintas resoluciones
+- Diseño flexible para distintas resoluciones de dispositivos
 - Navegacion simple y clara
   
 -RNF02
-- Panel administrativo fácil de usar sin conocimientos tècnicos
-- Actualizacion de contenido sin necesidad de programacion
+- Panel administrativo más flexible
+- Actualizacion de contenido al instante
 
 -RNF03
 - Tiempo de respuesta rapido incluso con multiples usuarios
