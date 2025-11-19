@@ -32,23 +32,11 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 -Administrador (Personas Capacitadas):
 - Miembros directivos del centro de estudiantes
 - Permisos: Gestión completa del sistema, moderación de contenido, asignación de roles
-
--Super Usuario (Directiva de centro):
-- Miembros directivos del centro de estudiantes
-- Permisos: Gestión y moderación de contenido.
-  
+ 
 -Estudiante (Registrado):
 - Estudiantes de la facultad registrados
 - Permisos: Ver información, proponer ideas, comentar propuestas
   
--Profesor (Docentes):
-- Docentes de la facultad
-- Permisos: Ver información, comentar en propuestas, dar feedback académico
-
--Invitado (Personas fuera de la Universidad):
-- Cualquier persona que visite el sitio
-- Permisos: Solo lectura de información pública
-
 ---
 
 ***Funciones indispensables por Perfil***
@@ -59,8 +47,6 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Asignar responsables de proyectos
 - Actualizar contenido estático (quiénes somos, contactos)
 - Editar visibilidad de la pagina
-
--Super Usuario:
 - Gestiona publicaciones
 - Publicar información oficial
 - Crear y cerrar encuestas
@@ -72,11 +58,6 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Ofrecerse como voluntario en proyectos
 - Ver estado de las propuestas
 - Comentar ideas existentes
-
--Profesor:
-- Ver información pública
-- Comentar en propuestas estudiantiles
-- Recibir notificaciones de actividades relevantes
 
 ---
 
