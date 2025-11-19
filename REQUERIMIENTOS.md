@@ -108,8 +108,18 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - Fecha creacion
 - ID administrador
 - Estado
-  
 
+-Opcion Votada
+- ID
+- ID Encuesta
+- Texto
+
+-Votos Usuarios
+- ID
+- ID Usuario
+- ID Encuesta
+- ID Opcion Votada
+- Fecha Voto
 ---
 
 ***Requisitos Funcionales***
