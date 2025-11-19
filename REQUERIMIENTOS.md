@@ -88,19 +88,26 @@ No sabemos nada de programación, así que necesitamos algo que nosotros podamos
 - ID
 - Nombre completo
 - Correo electronico institucional
+- Contraseña hashed
+- Token Autenticacion
+- Rol
 
 -Administrador
 - ID
 - Nombre completo
 - Correo electronico institucional
+- Contraseña hashed
+- Token Autenticacion
+- Rol
+
 
 -Encuestas
 - ID
 - Titulo
 - Descripcion
 - Fecha creacion
-- Opciones de voto
-- Votos de usuarios
+- ID administrador
+- Estado
   
 
 ---
